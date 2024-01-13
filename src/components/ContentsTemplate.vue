@@ -1,5 +1,5 @@
 <template>
-  <v-sheet   :elevation="elevation" height="900"  width="1300" color="rgba(0, 0, 0, 0.7)" class="scrollable-sheet"  >
+  <v-sheet   :elevation="elevation" height="900"  width="1300" color="rgba(0, 0, 0, 0.4)" class="scrollable-sheet"  >
               <p class="text-center text-h1 ">This is ibrahim george</p>
               <p>hello
             
